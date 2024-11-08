@@ -1,1 +1,16 @@
 frontend/.angular/cache
+# Ignore Angular cache and build directories
+frontend/.angular/cache
+frontend/dist
+frontend/out-tsc
+
+# Ignore node_modules
+node_modules
+
+# Ignore IDE and system files
+*.log
+*.tmp
+.DS_Store
+.vscode/
+.idea/
+
