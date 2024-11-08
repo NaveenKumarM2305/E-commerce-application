@@ -1,3 +1,4 @@
+.gitignore
 frontend/.angular/cache
 # Ignore Angular cache and build directories
 frontend/.angular/cache
